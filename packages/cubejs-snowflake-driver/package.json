@@ -30,7 +30,7 @@
     "@aws-sdk/client-s3": "^3.726.0",
     "@cubejs-backend/base-driver": "1.6.44",
     "@cubejs-backend/shared": "1.6.44",
-    "snowflake-sdk": "^2.4.0"
+    "snowflake-sdk": "^3.3.0"
   },
   "license": "Apache-2.0",
   "publishConfig": {
